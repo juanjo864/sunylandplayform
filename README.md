@@ -1,3 +1,4 @@
+he hecho un juego en unity 6
 en este proyecto he utilizado las imagenes en la asses store y la fuente en google os voy a poner los link
 
 https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
